@@ -18,7 +18,7 @@
 
 <h3> Post add and Sign out </h3>
 
-<img src = https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065832.png" height = "1000">
+<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065832.png" height = "1000">
 
 <h3> Upload Screen </h3>
 
