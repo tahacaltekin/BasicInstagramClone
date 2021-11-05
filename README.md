@@ -8,7 +8,7 @@
  
  <h3> Login Screen </h3>
 
- ![Screenshot_1636065841](https://user-images.githubusercontent.com/61507654/140567419-cf42ae84-37b0-4a55-a426-d84a66689221.png)
+ <img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065841.png" height = "750">
 
  <h3> Feed Screen </h3>
  
