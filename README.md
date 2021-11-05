@@ -11,10 +11,8 @@
 
  <h3> Feed Screen </h3>
  
- 
 <img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065818.png" height = "1000">
 
-<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065822.png" height = "1000">
 
 <h3> Post add and Sign out </h3>
 
