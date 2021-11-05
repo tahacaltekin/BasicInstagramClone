@@ -7,10 +7,9 @@
  <h2> App Pictures </h2>
  
  <h3> Login Screen </h3>
- <div>
- <img src = "(https://user-images.githubusercontent.com/61507654/140564997-d4891d1e-96ba-4a8c-8488-0a7277e4ded8.png)" height="750">
- </div>
- 
+
+ ![Screenshot_1636065841](https://user-images.githubusercontent.com/61507654/140567419-cf42ae84-37b0-4a55-a426-d84a66689221.png)
+
  <h3> Feed Screen </h3>
  
 ![Screenshot_1636065818](https://user-images.githubusercontent.com/61507654/140565760-70fcc8d2-3a67-45d6-8460-b9b3beea2278.png)
