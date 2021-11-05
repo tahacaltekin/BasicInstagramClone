@@ -1,0 +1,14 @@
+dependencyResolutionManagement {
+
+    repositories {
+        google()
+
+        repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+
+        mavenCentral()
+        //maven { url 'https://jitpack.io' }
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "InstagramCloneJava"
+include ':app'
