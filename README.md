@@ -8,20 +8,20 @@
  
  <h3> Login Screen </h3>
 
- <img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065841.png" height = "750">
+ <img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065841.png" height = "1000">
 
  <h3> Feed Screen </h3>
  
-![Screenshot_1636065818](https://user-images.githubusercontent.com/61507654/140565760-70fcc8d2-3a67-45d6-8460-b9b3beea2278.png)
+<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065818.png" height = "1000">
 
-![Screenshot_1636065822](https://user-images.githubusercontent.com/61507654/140565806-c5413e5f-5ab4-4349-aaa9-cd2f237ad7aa.png)
+<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065822.png" height = "1000">
 
 <h3> Post add and Sign out </h3>
 
-![Screenshot_1636065832](https://user-images.githubusercontent.com/61507654/140565859-ab958f2c-71e1-4c8f-965d-1eaf6420b84d.png)
+<img src = https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065832.png" height = "1000">
 
 <h3> Upload Screen </h3>
 
-![Screenshot_1636065837](https://user-images.githubusercontent.com/61507654/140565884-f5241b7d-fac9-431e-9391-d320a65359ea.png)
+<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065837.png" height = "1000">
 
 
