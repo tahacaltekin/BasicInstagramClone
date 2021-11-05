@@ -3,6 +3,7 @@
  This Project is a basic Instagram clone built with Java for Android, it uses Firebase as backend. 
  
 
+<div>
  <h2> App Pictures </h2>
  
  <h3> Login Screen </h3>
@@ -23,3 +24,5 @@
 <h3> Upload Screen </h3>
 
 ![Screenshot_1636065837](https://user-images.githubusercontent.com/61507654/140565884-f5241b7d-fac9-431e-9391-d320a65359ea.png)
+
+</div>
