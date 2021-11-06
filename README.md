@@ -1,7 +1,8 @@
 # BasicInstagramClone
 
  This Project is a basic Instagram clone built with Java for Android, it uses Firebase as backend,
- it using Picasso library to import photos.
+ Picasso library is used for photos.
+ 
  
  <h2> App Pictures </h2>
  
